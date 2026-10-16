@@ -30,8 +30,6 @@ I'm focusing on building scalable web & mobile applications, exploring clean arc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-omar&layout=compact&theme=dark&hide_border=true)
 
 ---
-<a href="https://majara.dev/u/yussssuf5"><img src="https://majara.dev/api/majara-dev-card/og?user=yussssuf5&layout=horizontal&theme=dark&accent=purple" width="1000" alt="Yusuf Omar's Majara Dev Card"/></a>
----
 ### 📫 Connect with me
 
 * **LinkedIn:** [yusuf-omar](https://linkedin.com/in/yusuf-omar-b650a8241)
